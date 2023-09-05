@@ -1,0 +1,24 @@
+<svg width="1440" height="990" viewBox="0 0 1440 990" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_9_2321)">
+<circle cx="269.313" cy="507.313" r="380.163" transform="rotate(60 269.313 507.313)" fill="url(#paint0_linear_9_2321)"/>
+</g>
+<g filter="url(#filter1_f_9_2321)">
+<circle cx="1170.31" cy="638.313" r="380.163" transform="rotate(60 1170.31 638.313)" fill="#F2C94C" fill-opacity="0.4"/>
+</g>
+<defs>
+<filter id="filter0_f_9_2321" x="-404.914" y="-166.914" width="1348.45" height="1348.45" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="147" result="effect1_foregroundBlur_9_2321"/>
+</filter>
+<filter id="filter1_f_9_2321" x="496.086" y="-35.9141" width="1348.45" height="1348.45" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="147" result="effect1_foregroundBlur_9_2321"/>
+</filter>
+<linearGradient id="paint0_linear_9_2321" x1="-241.192" y1="271.068" x2="329.053" y2="1044.97" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3E7BFA"/>
+<stop offset="1" stop-color="#6600CC"/>
+</linearGradient>
+</defs>
+</svg>
