@@ -1,0 +1,19 @@
+{
+  "name": "minyforecast",
+  "version": "1.0.0",
+  "description": "weather forecast",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "smllns",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.32.1",
+    "regenerator-runtime": "^0.14.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
