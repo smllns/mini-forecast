@@ -10,6 +10,8 @@ MinyForecast provides users with up-to-date weather forecasts based on their cur
 
 ## Troubleshooting and Support
 
+![Error state](https://github.com/smllns/mini-forecast/blob/main/imgs/forecats%20error.png?raw=true)
+
 To use MinyForecast, ensure that you have granted the app permission to access your location. If the forecast is not loading, please consider the following solutions:
 
 1. **Reload the Page:** Sometimes, simply reloading the page can resolve the issue.
