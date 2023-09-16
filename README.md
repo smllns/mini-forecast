@@ -2,7 +2,7 @@
 
 MinyForecast is a simple and user-friendly weather forecast app created with JavaScript, CSS, and HTML.
 
-![App Preview]([https://github.com/smllns/mini-forecast/blob/main/imgs/forecast.png?raw=true](https://github.com/smllns/mini-forecast/blob/main/imgs/new%20forecast.png?raw=true))
+![App Preview](https://github.com/smllns/mini-forecast/blob/main/imgs/new%20forecast.png?raw=true)
 
 ## Description
 
